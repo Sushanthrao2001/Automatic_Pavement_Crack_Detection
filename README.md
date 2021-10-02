@@ -30,10 +30,11 @@ Data Set: https://data.mendeley.com/datasets/5y9wdsg2zt/1
 <p>&nbsp;</p>
 
 ## Screenshots of the output
- <img align="left" src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/4.png" width="520" height="530">
- <img align="right" src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/3.png" width="520" height="530">
- <img align="left"src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/2.png">
- <img src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/5.png">
+ <img align="left" src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/2.png" width="450" height="630">
+ <img  src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/1.png" width="450" height="630">
+ <p>&nbsp;</p>
+ <img align="left" src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/4.png" width="450" height="630">
+ <img  src="https://github.com/Sushanthrao2001/Automatic_Pavement_Crack_Detection/blob/main/Images/3.png" width="450" height="630">
 
 <p>&nbsp;</p>
 
